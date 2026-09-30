@@ -1,8 +1,7 @@
-<!-- Put this file in a repo named exactly "Vishn2003" (same as your username) as README.md -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vishnu+Prabhas+%F0%9F%91%8B;Building+with+Python+%26+JavaScript;Learning+Machine+Learning+%26+AI+%F0%9F%A4%96;Turning+ideas+into+apps+%F0%9F%9A%80" alt="Typing intro" />
+# Hi, I'm Mettapelly Vishnu Prabhas 👋
+### 🤖 Learning ML & AI · 💻 Building apps with Python & JavaScript
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00e5ff&height=140&section=header&text=&fontSize=0" width="100%" />
 
@@ -55,7 +54,7 @@ class Vishnu:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-> Keep only the ones you actually use. Recruiters notice honesty. 😉
+> Keep only the ones you actually use.
 
 </details>
 
@@ -63,45 +62,22 @@ class Vishnu:
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Vishn2003/grow_easy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishn2003&repo=grow_easy&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Vishn2003/health-sync"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishn2003&repo=health-sync&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Vishn2003/repo_ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishn2003&repo=repo_ai&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Vishn2003/spotify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishn2003&repo=spotify&theme=tokyonight&hide_border=true" /></a>
-
-</div>
+| Project | Language | Link |
+|---|---|---|
+| **grow_easy** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![Open](https://img.shields.io/badge/View_repo-00b8d4?style=flat-square&logo=github)](https://github.com/Vishn2003/grow_easy) |
+| **health-sync** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | [![Open](https://img.shields.io/badge/View_repo-00b8d4?style=flat-square&logo=github)](https://github.com/Vishn2003/health-sync) |
+| **repo_ai** | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | [![Open](https://img.shields.io/badge/View_repo-00b8d4?style=flat-square&logo=github)](https://github.com/Vishn2003/repo_ai) |
+| **spotify** | ![Web](https://img.shields.io/badge/-Web_App-203a43?style=flat-square) | [![Open](https://img.shields.io/badge/View_repo-00b8d4?style=flat-square&logo=github)](https://github.com/Vishn2003/spotify) |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Streak
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishn2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishn2003&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishn2003&theme=tokyonight&hide_border=true" />
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishn2003&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Vishn2003/Vishn2003/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-
-</div>
-
-> ⚙️ Needs a one-time GitHub Action, see setup notes below.
 
 ---
 
@@ -122,10 +98,9 @@ class Vishnu:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vishn2003-181717?style=for-the-badge&logo=github)](https://github.com/Vishn2003)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mettapelly-vishnu-prabhas-39b67b246)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//mettapelly-vishnu-prabhas-39b67b246)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.vishnuprabhas05@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
 
 </div>
-
